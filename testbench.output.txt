@@ -1,0 +1,19 @@
+npm test
+PASS  tests/foodDelivery.test.js
+
+Food Delivery Application Testbench
+  ✓ should add food item to cart
+  ✓ should calculate subtotal correctly
+  ✓ should provide free delivery for orders of ₹500 or more
+  ✓ should charge ₹40 delivery for orders below ₹500
+  ✓ should calculate complete order total
+  ✓ should remove an item from cart
+  ✓ should create an order successfully
+  ✓ should update delivery status
+  ✓ should simulate complete delivery
+  ✓ should reject an empty cart
+
+Test Suites: 1 passed, 1 total
+Tests:       10 passed, 10 total
+Snapshots:   0 total
+Time:        1.2 s
