@@ -1,0 +1,38 @@
+======================================
+       FOOD DELIVERY APPLICATION
+======================================
+
+Available Restaurants:
+1. Spice Hub - City Center
+2. Food Palace - Main Road
+
+Selected Restaurant: Spice Hub
+
+Food Menu:
+101. Chicken Biryani - ₹180
+102. Paneer Butter Masala - ₹160
+103. Masala Dosa - ₹80
+
+Cart:
+Chicken Biryani x 2 = ₹360
+Paneer Butter Masala x 1 = ₹160
+Masala Dosa x 1 = ₹80
+
+Subtotal: ₹600
+Delivery Charge: ₹0
+Total Amount: ₹600
+
+Order Created Successfully!
+Order ID: ORD1001
+Customer: Rahul
+Status: Order Placed
+
+Delivery Simulation:
+Order ORD1001: Order Placed
+Order ORD1001: Preparing Food
+Order ORD1001: Out for Delivery
+Order ORD1001: Delivered
+
+======================================
+        ORDER DELIVERED SUCCESSFULLY
+======================================
