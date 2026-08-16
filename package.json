@@ -1,0 +1,21 @@
+{
+  "name": "food-delivery-app",
+  "version": "1.0.0",
+  "description": "A simple food delivery application using JavaScript and Node.js",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "jest --runInBand"
+  },
+  "keywords": [
+    "food",
+    "delivery",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Student",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.0.0"
+  }
+}
